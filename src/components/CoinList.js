@@ -24,4 +24,8 @@ class CoinList extends Component {
   }
 }
 
+const coinList = () => {
+  let percentData;
+};
+
 export default CoinList;
